@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "362867922914",
+    "project_id": "greenlightapp-ab5ad",
+    "storage_bucket": "greenlightapp-ab5ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362867922914:android:f79d48826f2d7ed1814bbb",
+        "android_client_info": {
+          "package_name": "com.example.project_group_13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362867922914-0cecbcctj7c4men9a1hktupd3da4vl4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUtarTQxfHuYBYIU860Y0c8CFi3EfEufg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362867922914-0cecbcctj7c4men9a1hktupd3da4vl4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
